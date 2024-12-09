@@ -13,7 +13,6 @@ __pycache__/
 logs/
 
 # Data files
-data/*.txt
 data/*.json
 data/*.csv
 
